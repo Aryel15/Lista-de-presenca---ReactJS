@@ -1,1 +1,1 @@
-Lista de convidados utilizando ReactJS, criada a partir da Trilha Fundamentar Rocketseat
+Lista de presença utilizando ReactJS, criada a partir da Trilha Fundamentar Rocketseat
