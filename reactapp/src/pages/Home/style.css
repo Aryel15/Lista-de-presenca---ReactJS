@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    padding: 2%;
+    flex-direction: column;
+}
+.container h1{
+    margin-bottom: 20px;
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    filter:drop-shadow(0px 3px 5px rgb(156, 156, 156)) ;
+    margin-bottom: 20px;
+}
+.inputs input{
+    padding-left: 20px;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    outline: 0;
+}
+.inputs button{
+    height: 40px;
+    background-color: aquamarine;
+    transition: 0.7s;
+    width: 150px;
+    border: 1px;
+    color: rgb(0, 110, 74);
+    border:none;
+    border-radius: 0px 5px 5px 0px;
+}
+.inputs button:hover{
+    background-color: aqua;
+    transition: 0.7s;
+    cursor: pointer;
+    color: rgb(0, 87, 87);
+}
